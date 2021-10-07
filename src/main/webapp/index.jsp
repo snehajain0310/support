@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2> This is Application Deployment on Kubernetes Cluster using CICD pipeline!!!!!</h2>
+<h2> This is the Application Deployment on Kubernetes Cluster using CICD Pipeline !!!!!</h2>
 </body>
 </html>
